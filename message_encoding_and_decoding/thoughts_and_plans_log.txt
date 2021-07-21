@@ -1,0 +1,28 @@
+starting a automated decoder and encoder biased on  a problem in linear algebra textbook.
+
+hard coded key check
+
+first steps encoder and decoder reading done
+
+identity_martix comparison completed
+  objective to used for proper key identification later.
+
+encryption of a hard coded message in progress
+
+
+
+srand(time()) and rand  // time is temporary solution
+  key generation
+
+fprintf and fscanf version later
+  fprintf used for:
+    key generation
+    encoded encoded_output
+    decoded output
+
+  fscanf used for:
+    key reading
+    encoded input
+
+  scanf used for:
+    key file name
