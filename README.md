@@ -8,7 +8,7 @@ next steps
 
 message integreity verification static
 
-massage integreity scanf
+message integreity scanf
 
 random key generate fprintf srand rand
 
