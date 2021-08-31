@@ -10,15 +10,19 @@ message integreity verification static
 
 message integreity scanf
 
+return prime number function to be fed numbers from rand
+
 random key generate fprintf srand rand
 
 user key fprintf 
 
 message integrity verification static
 
-message inteegrity scanf
+message integrity scanf
 
 embedded adoption
+
+parity checking 
 
 wired transmission
 
