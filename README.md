@@ -12,6 +12,8 @@ message integreity scanf
 
 return prime number function to be fed numbers from rand
 
+hidden key generate 
+
 random key generate fprintf srand rand
 
 user key fprintf 
